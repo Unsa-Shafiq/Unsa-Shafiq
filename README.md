@@ -4,9 +4,17 @@
 ## 👩‍💻 About Me
 I am a Data Analyst focused on extracting valuable insights from data and presenting them through impactful visualizations and dashboards. I have a hands-on experience in Data analysis, Data visualization, Data Cleaning and Exploratoratory Data Analysis.
 
-I am currently expanding my skills in business intelligence, predictive analytics, and storytelling through data-driven projects.  
+I am currently expanding my skills in business intelligence, predictive analytics, and storytelling through data-driven projects. 
 
-🔗 LinkedIn: https://www.linkedin.com/in/unsa-shafiq-920651380/
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="" target="blank">
+<img align="chttps://www.linkedin.com/in/unsa-shafiq-920651380/enter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
+</p>
 
 ---
 
@@ -54,9 +62,17 @@ I am currently expanding my skills in business intelligence, predictive analytic
 
 📧 unsashafiq51@gmail.com
 
-# 📊 Featured Projects
-## 📌 HR Employee Attrition Analysis
- [HR Employee Attrition Analysis](https://github.com/YOUR-USERNAME/HR-Employee-Attrition-Analysis)
+---
 
+# 📊 Featured Projects
+
+## 🛒 Blinkit Sales Performance Analysis
+
+### 🧰 Tools Used
+`Sql` for Analysis `PowerBI` for Dashboard
+
+---
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+
+---
