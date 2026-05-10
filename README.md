@@ -12,7 +12,7 @@ I am currently expanding my skills in business intelligence, predictive analytic
 
 <p align="left">
 <a href="" target="blank">
-<img align="chttps://www.linkedin.com/in/unsa-shafiq-920651380/enter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+<img align="chttps://https://www.linkedin.com/in/unsashafiq//enter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 </p>
 
