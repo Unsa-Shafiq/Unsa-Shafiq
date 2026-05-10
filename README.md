@@ -66,10 +66,16 @@ I am currently expanding my skills in business intelligence, predictive analytic
 
 # 📊 Featured Projects
 
-## 🛒 Blinkit Sales Performance Analysis
+## 🛒 [Blinkit Sales Performance Analysis](https://github.com/Unsa-Shafiq/Blinkit-Performance-Analysis-)
 
 ### 🧰 Tools Used
 `Sql` for Analysis `PowerBI` for Dashboard
+
+
+## [HR Employee Attrition Analysis](https://github.com/Unsa-Shafiq/HR-Employee-Attrition-Analysis)
+
+### 🧰 Tools Used
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` 
 
 ---
 
