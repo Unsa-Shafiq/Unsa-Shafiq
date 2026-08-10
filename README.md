@@ -72,11 +72,6 @@ I am currently expanding my skills in business intelligence, predictive analytic
 `Sql` for Analysis `PowerBI` for Dashboard
 
 
-## [HR Employee Attrition Analysis](https://github.com/Unsa-Shafiq/HR-Employee-Attrition-Analysis)
-
-### 🧰 Tools Used
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` 
-
 ---
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
